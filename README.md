@@ -5,4 +5,4 @@ The background of the buttons and the circle changes, and there is also
 a button that allows you to randomly select a weapon.
 
 
-Hover the mouse and see everything.
+### Hover the mouse and see everything.
